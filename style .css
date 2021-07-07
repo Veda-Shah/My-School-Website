@@ -1,0 +1,19 @@
+.travelme {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travelme img {
+    width: 100%;
+}
+
+.travelme hr {
+    width: 230px;
+}
+
+.travelme h5,
+.travelme p {
+    margin-left: 20px;
+}
