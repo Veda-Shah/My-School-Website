@@ -1,19 +1,19 @@
-.travelme {
+.schoolme {
     border: 1px solid #c7c7c7;
     padding-left: 0px;
     padding-right: 0px;
     float: none;
 }
 
-.travelme img {
+.schoolme img {
     width: 100%;
 }
 
-.travelme hr {
+.schoolme hr {
     width: 230px;
 }
 
-.travelme h5,
-.travelme p {
+.schoolme h5,
+.tschoolme p {
     margin-left: 20px;
 }
